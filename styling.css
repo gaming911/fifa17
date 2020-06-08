@@ -1,0 +1,30 @@
+body{
+	background-color: #EFED76;
+}
+
+header{
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 35px;
+}
+
+/*figcaption{
+	font-size: 25px;
+	color: #B2F3F7;
+	font-weight: bold;
+	text-align: center;
+}*/
+
+
+figure{
+	text-align: center
+}
+
+
+figure figcaption{
+	font-family: sans-serif;
+	font-size: 30px;
+
+}
+
+
